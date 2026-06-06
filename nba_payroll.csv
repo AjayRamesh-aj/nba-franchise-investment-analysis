@@ -1,0 +1,331 @@
+SEASON_YEAR,TEAM_NAME,PAYROLL_MILLIONS
+2013-14,Atlanta Hawks,57.4
+2013-14,Boston Celtics,71.2
+2013-14,Brooklyn Nets,101.3
+2013-14,Charlotte Bobcats,47.2
+2013-14,Chicago Bulls,78.0
+2013-14,Cleveland Cavaliers,54.3
+2013-14,Dallas Mavericks,84.4
+2013-14,Denver Nuggets,67.8
+2013-14,Detroit Pistons,53.1
+2013-14,Golden State Warriors,72.0
+2013-14,Houston Rockets,70.1
+2013-14,Indiana Pacers,66.5
+2013-14,Los Angeles Clippers,68.9
+2013-14,Los Angeles Lakers,91.1
+2013-14,Memphis Grizzlies,67.3
+2013-14,Miami Heat,82.6
+2013-14,Milwaukee Bucks,44.2
+2013-14,Minnesota Timberwolves,51.8
+2013-14,New Orleans Pelicans,47.3
+2013-14,New York Knicks,98.7
+2013-14,Oklahoma City Thunder,79.8
+2013-14,Orlando Magic,45.1
+2013-14,Philadelphia 76ers,49.6
+2013-14,Phoenix Suns,60.2
+2013-14,Portland Trail Blazers,66.1
+2013-14,Sacramento Kings,53.4
+2013-14,San Antonio Spurs,74.0
+2013-14,Toronto Raptors,58.3
+2013-14,Utah Jazz,49.8
+2013-14,Washington Wizards,61.2
+2014-15,Atlanta Hawks,63.2
+2014-15,Boston Celtics,61.8
+2014-15,Brooklyn Nets,92.3
+2014-15,Charlotte Hornets,52.4
+2014-15,Chicago Bulls,81.3
+2014-15,Cleveland Cavaliers,89.2
+2014-15,Dallas Mavericks,79.6
+2014-15,Denver Nuggets,62.1
+2014-15,Detroit Pistons,49.8
+2014-15,Golden State Warriors,73.0
+2014-15,Houston Rockets,76.4
+2014-15,Indiana Pacers,68.9
+2014-15,Los Angeles Clippers,83.2
+2014-15,Los Angeles Lakers,88.0
+2014-15,Memphis Grizzlies,71.2
+2014-15,Miami Heat,78.3
+2014-15,Milwaukee Bucks,51.3
+2014-15,Minnesota Timberwolves,53.2
+2014-15,New Orleans Pelicans,58.4
+2014-15,New York Knicks,91.2
+2014-15,Oklahoma City Thunder,81.3
+2014-15,Orlando Magic,48.2
+2014-15,Philadelphia 76ers,44.3
+2014-15,Phoenix Suns,64.1
+2014-15,Portland Trail Blazers,71.3
+2014-15,Sacramento Kings,57.2
+2014-15,San Antonio Spurs,78.2
+2014-15,Toronto Raptors,67.4
+2014-15,Utah Jazz,52.3
+2014-15,Washington Wizards,68.1
+2015-16,Atlanta Hawks,71.2
+2015-16,Boston Celtics,67.3
+2015-16,Brooklyn Nets,61.4
+2015-16,Charlotte Hornets,58.3
+2015-16,Chicago Bulls,84.2
+2015-16,Cleveland Cavaliers,101.3
+2015-16,Dallas Mavericks,81.2
+2015-16,Denver Nuggets,63.4
+2015-16,Detroit Pistons,61.3
+2015-16,Golden State Warriors,83.2
+2015-16,Houston Rockets,84.3
+2015-16,Indiana Pacers,58.4
+2015-16,Los Angeles Clippers,91.2
+2015-16,Los Angeles Lakers,71.3
+2015-16,Memphis Grizzlies,74.2
+2015-16,Miami Heat,82.3
+2015-16,Milwaukee Bucks,55.4
+2015-16,Minnesota Timberwolves,57.3
+2015-16,New Orleans Pelicans,64.2
+2015-16,New York Knicks,94.3
+2015-16,Oklahoma City Thunder,88.4
+2015-16,Orlando Magic,52.3
+2015-16,Philadelphia 76ers,47.2
+2015-16,Phoenix Suns,67.3
+2015-16,Portland Trail Blazers,72.4
+2015-16,Sacramento Kings,61.3
+2015-16,San Antonio Spurs,84.2
+2015-16,Toronto Raptors,76.3
+2015-16,Utah Jazz,58.4
+2015-16,Washington Wizards,71.2
+2016-17,Atlanta Hawks,74.3
+2016-17,Boston Celtics,82.4
+2016-17,Brooklyn Nets,57.3
+2016-17,Charlotte Hornets,63.4
+2016-17,Chicago Bulls,84.2
+2016-17,Cleveland Cavaliers,127.2
+2016-17,Dallas Mavericks,83.1
+2016-17,Denver Nuggets,68.3
+2016-17,Detroit Pistons,66.4
+2016-17,Golden State Warriors,114.2
+2016-17,Houston Rockets,88.3
+2016-17,Indiana Pacers,62.4
+2016-17,Los Angeles Clippers,97.3
+2016-17,Los Angeles Lakers,73.4
+2016-17,Memphis Grizzlies,77.2
+2016-17,Miami Heat,84.3
+2016-17,Milwaukee Bucks,58.4
+2016-17,Minnesota Timberwolves,61.3
+2016-17,New Orleans Pelicans,67.4
+2016-17,New York Knicks,121.3
+2016-17,Oklahoma City Thunder,112.4
+2016-17,Orlando Magic,56.3
+2016-17,Philadelphia 76ers,52.4
+2016-17,Phoenix Suns,71.3
+2016-17,Portland Trail Blazers,78.4
+2016-17,Sacramento Kings,64.3
+2016-17,San Antonio Spurs,92.4
+2016-17,Toronto Raptors,83.3
+2016-17,Utah Jazz,68.4
+2016-17,Washington Wizards,78.3
+2017-18,Atlanta Hawks,68.3
+2017-18,Boston Celtics,94.2
+2017-18,Brooklyn Nets,61.3
+2017-18,Charlotte Hornets,71.4
+2017-18,Chicago Bulls,72.3
+2017-18,Cleveland Cavaliers,128.4
+2017-18,Dallas Mavericks,79.3
+2017-18,Denver Nuggets,74.4
+2017-18,Detroit Pistons,69.3
+2017-18,Golden State Warriors,137.2
+2017-18,Houston Rockets,104.3
+2017-18,Indiana Pacers,68.4
+2017-18,Los Angeles Clippers,88.3
+2017-18,Los Angeles Lakers,78.4
+2017-18,Memphis Grizzlies,72.3
+2017-18,Miami Heat,79.4
+2017-18,Milwaukee Bucks,64.3
+2017-18,Minnesota Timberwolves,72.4
+2017-18,New Orleans Pelicans,74.3
+2017-18,New York Knicks,112.4
+2017-18,Oklahoma City Thunder,107.3
+2017-18,Orlando Magic,58.4
+2017-18,Philadelphia 76ers,61.3
+2017-18,Phoenix Suns,68.4
+2017-18,Portland Trail Blazers,83.3
+2017-18,Sacramento Kings,67.4
+2017-18,San Antonio Spurs,97.3
+2017-18,Toronto Raptors,91.4
+2017-18,Utah Jazz,74.3
+2017-18,Washington Wizards,82.4
+2018-19,Atlanta Hawks,71.2
+2018-19,Boston Celtics,148.3
+2018-19,Brooklyn Nets,74.3
+2018-19,Charlotte Hornets,78.4
+2018-19,Chicago Bulls,69.3
+2018-19,Cleveland Cavaliers,112.4
+2018-19,Dallas Mavericks,74.3
+2018-19,Denver Nuggets,84.4
+2018-19,Detroit Pistons,72.3
+2018-19,Golden State Warriors,148.2
+2018-19,Houston Rockets,118.3
+2018-19,Indiana Pacers,72.4
+2018-19,Los Angeles Clippers,84.3
+2018-19,Los Angeles Lakers,118.4
+2018-19,Memphis Grizzlies,64.3
+2018-19,Miami Heat,74.4
+2018-19,Milwaukee Bucks,91.3
+2018-19,Minnesota Timberwolves,128.4
+2018-19,New Orleans Pelicans,78.3
+2018-19,New York Knicks,98.4
+2018-19,Oklahoma City Thunder,118.3
+2018-19,Orlando Magic,62.4
+2018-19,Philadelphia 76ers,84.3
+2018-19,Phoenix Suns,68.4
+2018-19,Portland Trail Blazers,98.3
+2018-19,Sacramento Kings,72.4
+2018-19,San Antonio Spurs,94.3
+2018-19,Toronto Raptors,118.4
+2018-19,Utah Jazz,84.3
+2018-19,Washington Wizards,78.4
+2019-20,Atlanta Hawks,74.3
+2019-20,Boston Celtics,121.4
+2019-20,Brooklyn Nets,118.3
+2019-20,Charlotte Hornets,71.4
+2019-20,Chicago Bulls,72.3
+2019-20,Cleveland Cavaliers,84.4
+2019-20,Dallas Mavericks,94.3
+2019-20,Denver Nuggets,98.4
+2019-20,Detroit Pistons,68.3
+2019-20,Golden State Warriors,97.4
+2019-20,Houston Rockets,118.3
+2019-20,Indiana Pacers,78.4
+2019-20,Los Angeles Clippers,138.3
+2019-20,Los Angeles Lakers,128.4
+2019-20,Memphis Grizzlies,67.3
+2019-20,Miami Heat,84.4
+2019-20,Milwaukee Bucks,118.3
+2019-20,Minnesota Timberwolves,121.4
+2019-20,New Orleans Pelicans,84.3
+2019-20,New York Knicks,91.4
+2019-20,Oklahoma City Thunder,84.3
+2019-20,Orlando Magic,64.4
+2019-20,Philadelphia 76ers,118.3
+2019-20,Phoenix Suns,74.4
+2019-20,Portland Trail Blazers,94.3
+2019-20,Sacramento Kings,78.4
+2019-20,San Antonio Spurs,88.3
+2019-20,Toronto Raptors,118.4
+2019-20,Utah Jazz,94.3
+2019-20,Washington Wizards,72.4
+2020-21,Atlanta Hawks,84.3
+2020-21,Boston Celtics,118.4
+2020-21,Brooklyn Nets,148.3
+2020-21,Charlotte Hornets,74.4
+2020-21,Chicago Bulls,78.3
+2020-21,Cleveland Cavaliers,72.4
+2020-21,Dallas Mavericks,98.3
+2020-21,Denver Nuggets,108.4
+2020-21,Detroit Pistons,64.3
+2020-21,Golden State Warriors,104.4
+2020-21,Houston Rockets,74.3
+2020-21,Indiana Pacers,78.4
+2020-21,Los Angeles Clippers,148.3
+2020-21,Los Angeles Lakers,138.4
+2020-21,Memphis Grizzlies,71.3
+2020-21,Miami Heat,88.4
+2020-21,Milwaukee Bucks,118.3
+2020-21,Minnesota Timberwolves,84.4
+2020-21,New Orleans Pelicans,84.3
+2020-21,New York Knicks,91.4
+2020-21,Oklahoma City Thunder,68.3
+2020-21,Orlando Magic,61.4
+2020-21,Philadelphia 76ers,118.3
+2020-21,Phoenix Suns,84.4
+2020-21,Portland Trail Blazers,98.3
+2020-21,Sacramento Kings,74.4
+2020-21,San Antonio Spurs,84.3
+2020-21,Toronto Raptors,104.4
+2020-21,Utah Jazz,104.3
+2020-21,Washington Wizards,74.4
+2021-22,Atlanta Hawks,118.3
+2021-22,Boston Celtics,138.4
+2021-22,Brooklyn Nets,168.3
+2021-22,Charlotte Hornets,84.4
+2021-22,Chicago Bulls,98.3
+2021-22,Cleveland Cavaliers,84.4
+2021-22,Dallas Mavericks,108.3
+2021-22,Denver Nuggets,118.4
+2021-22,Detroit Pistons,68.3
+2021-22,Golden State Warriors,148.4
+2021-22,Houston Rockets,74.3
+2021-22,Indiana Pacers,78.4
+2021-22,Los Angeles Clippers,148.3
+2021-22,Los Angeles Lakers,168.4
+2021-22,Memphis Grizzlies,84.3
+2021-22,Miami Heat,98.4
+2021-22,Milwaukee Bucks,128.3
+2021-22,Minnesota Timberwolves,104.4
+2021-22,New Orleans Pelicans,78.3
+2021-22,New York Knicks,118.4
+2021-22,Oklahoma City Thunder,64.3
+2021-22,Orlando Magic,58.4
+2021-22,Philadelphia 76ers,128.3
+2021-22,Phoenix Suns,118.4
+2021-22,Portland Trail Blazers,98.3
+2021-22,Sacramento Kings,78.4
+2021-22,San Antonio Spurs,78.3
+2021-22,Toronto Raptors,118.4
+2021-22,Utah Jazz,118.3
+2021-22,Washington Wizards,84.4
+2022-23,Atlanta Hawks,118.4
+2022-23,Boston Celtics,148.3
+2022-23,Brooklyn Nets,158.4
+2022-23,Charlotte Hornets,88.3
+2022-23,Chicago Bulls,104.4
+2022-23,Cleveland Cavaliers,104.3
+2022-23,Dallas Mavericks,118.4
+2022-23,Denver Nuggets,128.3
+2022-23,Detroit Pistons,71.4
+2022-23,Golden State Warriors,158.3
+2022-23,Houston Rockets,78.4
+2022-23,Indiana Pacers,84.3
+2022-23,Los Angeles Clippers,158.4
+2022-23,Los Angeles Lakers,148.3
+2022-23,Memphis Grizzlies,98.4
+2022-23,Miami Heat,104.3
+2022-23,Milwaukee Bucks,138.4
+2022-23,Minnesota Timberwolves,118.3
+2022-23,New Orleans Pelicans,94.4
+2022-23,New York Knicks,118.3
+2022-23,Oklahoma City Thunder,74.4
+2022-23,Orlando Magic,68.3
+2022-23,Philadelphia 76ers,138.4
+2022-23,Phoenix Suns,148.3
+2022-23,Portland Trail Blazers,94.4
+2022-23,Sacramento Kings,94.3
+2022-23,San Antonio Spurs,74.4
+2022-23,Toronto Raptors,118.3
+2022-23,Utah Jazz,94.4
+2022-23,Washington Wizards,84.3
+2023-24,Atlanta Hawks,118.3
+2023-24,Boston Celtics,158.4
+2023-24,Brooklyn Nets,104.3
+2023-24,Charlotte Hornets,84.4
+2023-24,Chicago Bulls,104.3
+2023-24,Cleveland Cavaliers,118.4
+2023-24,Dallas Mavericks,138.3
+2023-24,Denver Nuggets,148.4
+2023-24,Detroit Pistons,74.3
+2023-24,Golden State Warriors,148.4
+2023-24,Houston Rockets,94.3
+2023-24,Indiana Pacers,98.4
+2023-24,Los Angeles Clippers,168.3
+2023-24,Los Angeles Lakers,158.4
+2023-24,Memphis Grizzlies,94.3
+2023-24,Miami Heat,118.4
+2023-24,Milwaukee Bucks,148.3
+2023-24,Minnesota Timberwolves,138.4
+2023-24,New Orleans Pelicans,104.3
+2023-24,New York Knicks,138.4
+2023-24,Oklahoma City Thunder,94.3
+2023-24,Orlando Magic,84.4
+2023-24,Philadelphia 76ers,148.3
+2023-24,Phoenix Suns,168.4
+2023-24,Portland Trail Blazers,84.3
+2023-24,Sacramento Kings,118.4
+2023-24,San Antonio Spurs,78.3
+2023-24,Toronto Raptors,118.4
+2023-24,Utah Jazz,84.3
+2023-24,Washington Wizards,94.4
